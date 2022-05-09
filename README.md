@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jenn</h1>
 <h3 align="center">A passionate frontend developer from North Carolina</h3>
 
-<p align="left"> <a href="https://twitter.com/jennbridonkulous" target="blank"><img src="https://img.shields.io/twitter/follow/jennbridonkulous?logo=twitter&style=for-the-badge" alt="jennbridonkulous" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jenbridonkulous" target="blank"><img src="https://img.shields.io/twitter/follow/jenbridonkulous?logo=twitter&style=for-the-badge" alt="jenbridonkulous" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jennbridonkulous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jennbridonkulous" height="30" width="40" /></a>
+<a href="https://twitter.com/jenbridonkulous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jenbridonkulous" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jenn-marshall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jenn-marshall" height="30" width="40" /></a>
 </p>
 
