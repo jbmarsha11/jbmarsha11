@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jenn</h1>
-<h3 align="center">A passionate frontend developer from North Carolina</h3>
+<h3 align="center">A passionate fullstack developer from North Carolina</h3>
 
 <p align="left"> <a href="https://twitter.com/jenbridonkulous" target="blank"><img src="https://img.shields.io/twitter/follow/jenbridonkulous?logo=twitter&style=for-the-badge" alt="jenbridonkulous" /></a> </p>
 
